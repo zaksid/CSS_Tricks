@@ -1,0 +1,9 @@
+body {
+    clear: both;
+}
+
+.accordion-container,
+.carousel-container {
+    float: left;
+    overflow: hidden;
+}
